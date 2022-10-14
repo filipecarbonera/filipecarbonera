@@ -1,4 +1,4 @@
-👋 I'm a **data analyst** focused on solving business problems and a action-driven professional who loves coffee and discovering new places.
+ :raised_hand_with_fingers_splayed: Hello! I'm Filipe!
 
 💬 I have experience in **business intelligence**, **data analysis** and **business process automation**.
 
@@ -8,7 +8,7 @@
 
 ---
   
-**Entre em contato!**
+**Contact me!**
 <div>
   <a href="https://www.linkedin.com/in/filipecarboneradesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
