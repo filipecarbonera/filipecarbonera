@@ -10,4 +10,3 @@ Atuo como **analista de dados** há cerca de 3 anos e tenho experiência em toda
 </div>
 
 ---
-[Aqui você encontra alguns de meus textos publicados.](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
