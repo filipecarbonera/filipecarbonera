@@ -1,12 +1,11 @@
-Olá, sou o Filipe!
+Hello, I'm Filipe!
 
-Atuo como **analista de dados** há cerca de 3 anos e tenho experiência em todas as etapas de um projeto de dados, incluindo coleta, armazenamento, modelagem, visualização e insights de dados, usando várias ferramentas como **Excel, SQL, Python, Google Analytics e Data Studio**. Demonstro habilidade para **traduzir problemas de negócios em soluções técnicas**, propondo **novos processos, análises e automação de relatórios**. Também já atuei como analista de processos, tendo experiência ampla ao lidar com diferentes frentes de negócio para a **melhoria de processos internos**, além disso, implementei a ferramenta Pipefy (BPM) em diversas áreas, incluindo Atendimento, RH, Financeiro, Mídia e Performance, para melhorar a gestão de processos.
+I've been working as a data analyst for about 3 years and have experience in all stages of a data project, including collection, storage, modeling, visualization, and data insights, using various tools such as Excel, SQL, Python, Google Analytics, and Data Studio. I demonstrate the ability to translate business problems into technical solutions, proposing new processes, analyses, and report automation. I have also worked as a process analyst, with broad experience in dealing with different business areas for internal process improvement. Additionally, I implemented the Pipefy tool (BPM) in various areas, including Customer Service, HR, Finance, Media, and Performance, to enhance process management.
 
-**Aqui você vai encontrar os projetos que demonstram algumas de minhas habilidades.**
+Here you will find projects showcasing some of my skills.
 
-**Entre em contato!**
+Get in touch!
+
 <div>
   <a href="https://www.linkedin.com/in/filipecarboneradesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
----
